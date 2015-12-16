@@ -14,7 +14,7 @@ You can also use [the online browsing sample](http://labs.webgeodatavore.com/par
 
 Feel free to contact us to for feedback at contact@webgeodatavore.com or though issues.
 
-## French
+## Français
 
 Certains de nos clients n'étaient pas très satisfaits par la documentation des API Qt/QGIS (basées sur C++) pour trouver les classes les plus utiles de l'API QGIS Python.
 
